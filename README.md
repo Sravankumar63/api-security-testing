@@ -56,3 +56,6 @@ api-security-testing/
 - Integrate Kubernetes deployment
 - Add advanced vulnerability scanning
 - Automate CI/CD security testing
+
+- ## 📄 Full Report
+[View Detailed Report](project-report.pdf)

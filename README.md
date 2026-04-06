@@ -57,5 +57,5 @@ api-security-testing/
 - Add advanced vulnerability scanning
 - Automate CI/CD security testing
 
-- ## 📄 Full Report
-[View Detailed Report](project-report.pdf)
+## 📄 Full Report
+[View Detailed Report](api-security-report.pdf)
